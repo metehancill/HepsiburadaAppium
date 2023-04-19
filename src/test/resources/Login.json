@@ -1,0 +1,42 @@
+[
+  {
+    "key": "AccountBtn",
+    "value": "com.pozitron.hepsiburada:id/account_menu_button",
+    "type": "id"
+  },
+  {
+    "key":"LoginBtn",
+    "value": "//android.view.ViewGroup[@content-desc='account_menu_button_1']",
+    "type": "xpath"
+  },
+  {
+    "key": "loginUsername",
+    "value": "txtUserName",
+    "type": "id"
+  },
+  {
+    "key": "submitMailBtn",
+    "value": "btnLogin",
+    "type": "id"
+  },
+  {
+    "key": "loginPassword",
+    "value":"hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[4]/android.view.View/android.widget.EditText\",\n\"androidType",
+    "type": "xpath"
+  },
+  {
+    "key": "submitLoginBtn",
+    "value": "btnEmailSelect",
+    "type": "id"
+  },
+  {
+    "key": "welcomeCheck",
+    "value": "android:id/button1",
+    "type": "id"
+  },
+  {
+    "key": "closeAccountScreen",
+    "value": "Hesabım ekranını kapat",
+    "type": "accessibility id"
+  }
+]

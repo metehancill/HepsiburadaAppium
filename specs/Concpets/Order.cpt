@@ -1,0 +1,17 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Popup üzerinden Sepete Gidilmesi
+* "goToCartBtn" id'li elemente tikla
+
+# Footer üzerinden Sepete Gidilmesi
+* "goToCartFromFooter" id'li elemente tikla
+
+# Sepette Bulunan Ürünün Silinmesi
+* "deleteFromCart" id'li elemente tikla
+
+# Sipariş Ekranına ilerle
+* "checkoutProceed" id'li elemente tikla
+
+# Siparişi tamamla
+* "checkoutProceed" id'li elemente tikla

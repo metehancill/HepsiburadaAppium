@@ -1,0 +1,15 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Categories sekmesinden Katefori seçimi
+* "goToCategories" id'li elemente tikla
+* "sportsWearCategory" xpath'li elemente tikla
+
+# Ürün seçilmesi
+* "productList" li elementi rastgele sec
+
+# Seçilen ürünün favorilere atılması
+* "addToFavorites" id'li elemente tikla
+
+# Seçilen ürünün Sepete eklenmesi
+* "addToCartBtn" id'li elemente tikla

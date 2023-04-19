@@ -1,0 +1,16 @@
+Created by testinium on 18.04.2023
+
+This is a concept file with following syntax for each concept.
+# Hepsiburada Hesabım Bölümüne Tıklanır.
+* "AccountBtn" id'li elemente tikla
+# Üye ol Seçeneği Seçilir.
+* "RegisterBtn" id'li elemente tikla
+# Acilan Ekranda üyelik e-maili girişi yapılır
+* "enterMail" id'li elemente "metehan.cil@testinium.com" text degerini gonder
+# Mail bilgisi submit edilir
+* "SignUpSubmitBtn" id'li elemente tikla
+# Üyelik Bilgileri girilir
+* "enterName" id'li elemente "Metehan" text degerini gonder
+* "enterSurname" id'li elemente "Çil" text degerini gonder
+* "password" id'li elemente "Metehancil6" text degerini gonder
+* "SignUpSubmitBtn" id'li elemente tikla

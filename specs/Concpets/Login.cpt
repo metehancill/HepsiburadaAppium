@@ -1,0 +1,20 @@
+Created by testinium on 18.04.2023
+
+This is a concept file with following syntax for each concept.
+# Hepsiburada ekranından Account simgesine tıklanır
+* "AccountBtn" id'li elemente tikla
+
+# Giris Yap sekmesi seçilir
+* "LoginBtn" xpath'li elemente tikla
+
+# Acilan ekrandan e-mail girdisi gerçeklestrilir ve onaylanır
+* "loginUsername" id'li elemente "metehan.cil@testinium.com" text degerini gonder
+* "submitMailBtn" id'li elemente tikla
+
+# Sifre bilgisi gerekli alanlara girlir ve 'Giriş Yap' butonuna tıklanır
+* "loginPassword" id'li elemente "Metehancil6" text degerini gonder
+*"submitLoginBtn" id'li elemente tikla
+* "welcomeCheck" id'li elemente tikla
+
+#Hesabım Ekranıın kapatılması
+* "closeAccountScreen" id'li elemente tikla

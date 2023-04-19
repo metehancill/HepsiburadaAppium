@@ -1,0 +1,27 @@
+[
+  {
+    "key": "goToCategories",
+    "value": "Kategorilerim",
+    "type": "accessibility id"
+  },
+  {
+    "key":"sportsWearCategory",
+    "value": "//android.view.ViewGroup[@content-desc='insideMenuItem1-1']",
+    "type": "xpath"
+  },
+  {
+    "key": "productList",
+    "value": "com.pozitron.hepsiburada:id/rvPlp",
+    "type": "id"
+  },
+  {
+    "key": "addToCartBtn",
+    "value": "com.pozitron.hepsiburada:id/product_detail_add_to_cart_text",
+    "type": "id"
+  },
+  {
+    "key": "addToFavorites",
+    "value": "com.pozitron.hepsiburada:id/selectorIconFavorite",
+    "type": "id"
+  }
+]

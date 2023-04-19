@@ -1,0 +1,42 @@
+[
+  {
+    "key": "AccountBtn",
+    "value": "com.pozitron.hepsiburada:id/account_menu_button",
+    "type": "id"
+  },
+  {
+    "key": "RegisterBtn",
+    "value": "//android.view.ViewGroup[@content-desc='account_menu_button_0']",
+    "type": "xpath"
+  },
+  {
+    "key": "enterMail",
+    "value": "txtEmail",
+    "type": "id"
+  },
+  {
+    "key":"SignUpSubmitBtn",
+    "value": "btnSignUpSubmit",
+    "type": "id"
+  },
+  {
+    "key": "enterName",
+    "value": "txtName",
+    "type": "id"
+  },
+  {
+    "key": "enterSurname",
+    "value": "txtSurname",
+    "type": "id"
+  },
+  {
+    "key": "password",
+    "value": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[3]/android.view.View[3]/android.widget.EditText xpath",
+    "type": "xpath"
+  },
+  {
+    "key":"SignUpSubmitBtn",
+    "value": "btnSignUpSubmit",
+    "type": "id"
+  }
+]
